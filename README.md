@@ -65,5 +65,5 @@ replace_whitespace_with_underscore(filename)
 ```
 Finally, the code sets the variable filename to 'file.txt' and calls the `replace_whitespace_with_underscore` function with this filename as an argument, initiating the processing of the file.
 
-## Exercise
+## exercise
 You can modify the whitespace and underscore into anything, i.e., replace 'Apple' with 'Orange', etc.
