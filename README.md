@@ -2,6 +2,8 @@
 
 Replace 'file.txt' with the actual file (path) you want to modify.
 
+**Main purpose**
+
 This code reads the file, replaces whitespace with underscores, and saves the modified content back to the same file.
 
 ## code review
